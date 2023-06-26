@@ -12,3 +12,4 @@ Possible starting points:
 * https://developer.twitter.com/en/docs/twitter-api
 * https://hckrnews.com/
 * https://newsapi.org/docs/get-started
+* https://developers.google.com/youtube/v3/
