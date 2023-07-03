@@ -1,5 +1,6 @@
 # IVAN
 
+Name idea: MyRithm - my own algorithm.
 Empowering us humans to fight the algorithms and take control of our online experience.
 
 Notes:
